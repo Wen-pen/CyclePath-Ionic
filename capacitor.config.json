@@ -1,0 +1,6 @@
+{
+  "appId": "com.mwenya.cyclepath",
+  "appName": "CyclePath",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
